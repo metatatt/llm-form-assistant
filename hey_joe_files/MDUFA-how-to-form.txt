@@ -1,0 +1,104 @@
+Q&A: Form MDUFA Small Business Certification Request Application 
+
+Tag: Form 3602, How to fill, MDUFA 
+
+ 
+
+Q:  what is Form MDUFA Small Business Certification Request? 
+
+A: the Form is also called Form 3602, or FDA Form 3602, MDUFA Small Business Certification Request, for a Business Headquartered in the United States. 
+
+ 
+Q: How to fill out the Form properly.  
+A: Follow the below instruction to out each below column in the Form 
+
+1 Name of business requesting MDUFA Small Business status: 
+instructions: Provide the full legal name of the affiliate: 
+
+If the affiliate is a corporation, limited liability company, partnership, or other legal entity, you 
+
+should provide the name used in its articles of incorporation, articles of organization, 
+
+partnership registration, or other similar instrument filed with the State or other government 
+
+under whose laws the firm was created. 
+
+If the affiliate is a sole proprietorship (that is, it is owned entirely by an individual), you 
+
+should provide the name used when filing Federal, State, or other taxes. 
+
+ 
+
+2 Organization ID Number (Org ID) 
+instruction: this is an ID number uniquely identifies each business: 
+
+Org ID is a system-generated number assigned to a new 
+
+organization during the User Fee account creation process that uniquely identifies your business in the 
+
+FDA User Fee Website. Available at https://userfees.fda.gov/OA_HTML/mdufmaCAcdLogin.jsp?legalsel=2&ref 
+
+See Section VII (Frequently-Asked Questions) of this guidance for instructions on obtaining your Org ID; the 
+
+Org ID is used by FDA to interact with an organization to ensure proper payment of its medical device 
+
+applications that require the payment of a user fee. If this number is incorrect there could be a delay in 
+
+processing your Small Business Certification reduced user fee for an application. 
+
+ 
+
+3 Address where, Address where business is physically located: 
+This is the address where the business is physically located (i.e., the address you would give to a person who needed to travel directly to the 
+
+business’s primary establishment). 
+ 
+
+4 Name of person making this, or Name of person making this Small Business Certification Request: 
+This is the person who is responsible for the accuracy 
+
+and completeness of the information provided in the Certification and who must sign the Certification 
+
+(see item 10). This is also the person FDA will contact for all communications regarding your MDUFA 
+
+Small Business Qualification and Certification, for a Business Headquartered in the United States. 
+
+Above are “Section I – Information about the Business Requesting Small Business Status” 
+ 
+ 
+
+Q: What to do after completed the form: 
+A: Once the form is completed, print the form.  
+
+  
+
+Q: Where to specify the Fiscal Year of application 
+A： Please identify the Fiscal Year for which the Small Business Certification Request is applicable in the upper right section of the header of the form. 
+ 
+Q:How to complete the Form with a computer: 
+
+A: 1) Locate the Form FDA 3602/3602A at: 
+
+http://www.fda.gov/aboutfda/reportsmanualsforms/forms/default.htm 
+
+2) Download the PDF version of the form and fill it out using your computer. 
+
+3) Save file as Adobe Acrobat PDF File on your computer. 
+
+4) Open the saved PDF file on your computer 
+
+ 
+
+Q:What are related regulations？ 
+A: 21 CFR 11.3(7) Electronic signature means a computer data compilation of any symbol or series of symbols executed, adopted, or authorized by an individual to be for the appropriate FY (submissions received by FDA from October 1st FY). The legally binding equivalent of the individual's handwritten signature. 21 CFR 11.3 (8)  
+
+Q: How to sign the Form?  
+A: Handwritten signature means the scripted name or legal mark of an individual handwritten by 
+
+that individual and executed or adopted with the present intention to authenticate a writing in a 
+
+permanent form. The act of signing with a writing or marking instrument such as a pen or stylus is 
+
+preserved. The scripted name or legal mark, while conventionally applied to paper, may also be 
+
+applied to other devices that capture the name or mark. 

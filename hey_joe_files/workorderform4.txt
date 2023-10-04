@@ -1,0 +1,17 @@
+Work Order
+
+A Work Order is a task or job for a customer that can be scheduled and assigned to someone. It provides a description of the details of a job. The term is commonly used in the field services industry, where Work Orders are assigned to field technicians with different tasks such as equipment installations, repairs, or maintenance works. 
+
+Usually, Work Orders are the result of a customer request. However, in many cases, Work Orders may be a follow-up action from an inspection or audit carried out before. Here are a few examples that signify an actual work order:
+
+A property inspection may indicate the need for several repairs – roofing, plumbing, landscaping, electrical, etc.  Here each repair may be an individual work order.
+An Occupational Health and Safety Assessment (OSHA) inspection indicates the need to replace signage, change lighting, remove hazardous material, decongest stairways, etc. –  each of these items could be a work order.
+A planned maintenance check on manufacturing equipment indicates the need to change parts, add lubricants, and tune components – which can be one or more work orders.
+Inspections
+
+An inspection is a structured information gathering activity that is assigned to someone to be performed at a certain location and time.
+
+In ReachOut, inspections are a formal way to collect information at the job site using checklists or forms. For example, a safety inspection at an oil rig would involve a meticulous examination of equipment and processes to ensure that they follow established standards and regulations as well as document any hazards or unsafe practices that may compromise safety. 
+
+The forms are customized with questions that guide the inspector through the process. Inspections are usually conducted more than once and therefore the same forms are reused. Information collected by the inspector may also include annotated photographs. 
+

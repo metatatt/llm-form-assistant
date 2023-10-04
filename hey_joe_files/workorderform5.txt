@@ -1,0 +1,73 @@
+What Is a Work Order?
+A work order, or maintenance work order, is a digital or paper document that defines a requested maintenance service. Work orders will look vastly different depending on the industry, size of the company and what kind of technology is used to generate them. Keep reading to learn how to most effectively use work orders in your business.
+
+Why use a work order?
+Work order definitions vary across industries, but in general, the purpose is to relay specific information about service requests. In contrast to a work request, where an employee submits a request to management to perform a task, a work order is generated when maintenance work is requested by management. There are several types of requests for different situations:
+
+Emergency maintenance
+Inspections
+General work order
+Used to facilitate effective communication between departments, a work order provides a paper or virtual trail for all aspects of the work to be performed. For example, a maintenance request may call for purchasing supplies or using the company’s existing inventory. A work order will generate the invoice number required to link all the processes required for a repair.
+
+The work order document contains all the information needed to properly initiate and invoice the service. When it comes to financial reporting, the accounting process can be streamlined if work orders, invoices and receipts are labeled with the corresponding work order number.
+
+The work order also outlines the project guidelines, making it a good point of reference for contractors who want to do the job exactly right. This is especially important in complex projects, such as remodeling jobs. The work order should list every required repair, making a working to-do list for your contractors. It’s good practice to make work orders as detailed as possible to avoid your team having to stop and ask for clarification.
+
+Components of a work order
+Similar to a project plan, a work order is a one-stop shop for all the details about a task, such as the cost of parts and labor. This makes it a handy tool for employees to quickly determine their responsibilities, as well as for accounting purposes. An effective work order must contain all the information for workers to carry out the tasks being requested. This information will not be the same in every work order, but in general, you need to include:
+
+Company info, including name, address and contact numbers
+The work order number or invoice number
+Description and title of the work order
+Location of the work to be done
+Assigned employee or contractor’s name
+Estimated length of the job
+Cost of work to be done
+List of any supplies or parts needed
+Work order priority
+Coordinate your company’s needs by communicating with the heads of your different departments. For example, your crew manager will know exactly what details need to be relayed to their workers and they can use it to create an efficient staffing plan. Work orders are internal documents, so feel free to adapt them exactly for your company’s needs.
+
+While a work order can outline the needed supplies and note their estimated cost, it’s not the same as a purchase order. A purchase order is a specific document that outlines the cost and delivery of needed supplies. The purchase order is linked to the work order by the invoice or order number.
+
+Starting a new work order
+A work request can be started by any employee in the company that notices a maintenance issue. Once their management team is alerted, a maintenance planner or maintenance manager will work to resolve the problem. There are several considerations to take into account when planning new maintenance tasks:
+
+Analysis. The budget must be analyzed to determine if there’s room for maintenance spending.
+Identify asset criticality. How important the object in question is to company operations? This, in addition to the severity of the problem, will direct how you prioritize the work order.
+Approval or Denial. Once this information is gathered, you can deny a work request or approve it, turning it into a work order.
+Draft. Draft your work order with the previously outlined information and whatever else is pertinent to your needs.
+Submittal. Submit the work order to your maintenance manager, who can then assign a technician to go fix the problem.
+Invoice Creation. Create the invoice once work has been completed, submitting it to the appropriate departments as necessary to receive payment and track payroll.
+Communicating with crew or residents in the area
+Before sending a maintenance crew to a location, you need to make sure everyone is coordinating with each other. Maintenance technicians often carry a business phone to make sure they can reach the client before arriving. Always make sure to notify tenants if you need to have your maintenance staff enter their residence.
+
+Serving proper notice to enter a residence to work
+When your business is real estate property management, you may have repair requests concerning areas inside other people’s homes. It’s important that you are respectful and follow all applicable maintenance entry laws. Generally, at least seven days’ notice is required.
+
+Emergency maintenance requests such as a burst pipe or a broken window need to be completed as soon as possible. In such events, a maintenance man can be dispatched within 24 hours, but the resident still needs to be notified of their intent to enter their home. Adequate habitation laws require that tenants always be provided:
+
+An environment free of lead, mold and asbestos
+Reasonable protection from the elements and criminals, such as a reliable roof and secure locked doors and windows
+Properly running plumbing in a bathroom and a kitchen
+Reliable heat and hot water
+There are certain exceptions to the notice rule, such as emergencies. In the event of a fire or severe water leaks, the landlord may be able to enter without consulting the tenant or submitting a work order.
+
+Manage work orders in progress
+When a work order has been submitted, you’ll want to keep track of its completion. Effectively managing work orders improves your operational efforts and builds trust with clients. A few metrics to help you chart work orders are:
+
+Overall equipment effectiveness (OEE) to help maintain a fully functional inventory
+Mean time to repair or replace (MTTR), which gives the necessary information to make accurate time frames when creating future work orders, since meeting deadlines on or before the work order completion date instills confidence in clients
+Mean time between failures (MTBF) to track when you want to optimize your regular maintenance schedule
+Maintenance, repair and overhaul (MRO) expenditure, which shows the financial impact of maintenance projects and can help your company with budgeting
+Work order FAQs
+Can a work order expire?
+If a project has an urgent deadline, it should certainly be stated on the work order. It’s up to your company’s policies how long a work order can stay in the system. Make sure to have a good management system in place to ensure work orders are being completed in a timely manner. If there is a contracted due date, the client may be able to back out of the contract without legal or financial consequences if the due date isn’t met.
+
+Do I need to submit multiple work orders if I’m sending out more than one employee?
+No, the work order can contain the names of multiple employees and contractors, although each contractor will need their own copy. Nonmanagerial employees don’t usually receive work orders, as they are simply directed on the job. Employees will need to track their hours worked to create the payroll reports that are associated with the work order.
+
+Is there any software that can help me create and manage work orders?
+There are many computerized maintenance management systems (CMMS) to help maintenance managers stay organized. These programs offer direction for employees, equipment and vehicles, in addition to facilitating payroll and financial tracking. With a great CMMS, centralized information and the ability to create automated tasks, you can easily optimize operations and keep your business running smoothly.
+
+Which is better, paper or digital work orders?
+Paper work orders may be more convenient when crew members aren’t trained in CMMS software, but in most cases, digital orders are the way to go. A database can track information much faster than a person. There is also unlimited storage potential, freeing up room in your office and helping maximize warehouse space. Contractors can find schematics more quickly with a digital system, and your labor and planning efforts are improved when your CMMS is set up with all the needed information to create your work orders.

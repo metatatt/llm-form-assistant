@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+
+body {
+  background-color: #d1d1d1;
+   font-family: 'Roboto', sans-serif;
+}
+
+:root {
+
+  --base-font-size: 16px;
+  --font-size-1: 1.0rem;
+  --font-size-2: 1.2rem;
+  --font-size-3: 1.4rem;
+  --font-size-emoji: 2.5rem;
+  --batonBlue: #5065A8;
+  --batonGrey: #F2EEE4;
+  --white: #ffffff;
+  --black: #00000000;
+}
+
+.container { 
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+    grid-template-rows: 100fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". .";
+  }
+
+  .media {
+    position: relative;
+    grid-column: 1 / span 1;
+    display: flex; /* Use flexbox to stack .videoText over the video */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: top; /* Center items vertically */
+  }
+
+  .side {
+    position: relative;
+    grid-column: 2 / span 1;
+
+  }
+
+  .videoText {
+    position: absolute;
+    margin: 10px 15px 0 15px; /* top right bottom left */
+    z-index: 2;
+    width: 100%;
+    display: flex; /* Use flexbox to arrange children horizontally */
+    flex-direction: column; /* Arrange children in a column layout */
+    justify-content: space-between; /* Center horizontally */
+    align-items: center; /* Center vertically */
+     }
+
+  .t1 {
+     font-size:var(--font-size-3); /* Set the font size to 2 rem */
+     color: white;
+     margin: 0px 15px 0 15px; /* top right bottom left */
+     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .t2 {
+    font-size: var(--font-size-2); /* Set the font size to 2 rem */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin: 0px 15px 0 15px; /* top right bottom left */
+    color: rgba(246, 230, 10, 0.847);
+ }
+
+  .topRow,
+  .bottomRow {
+      display: flex; /* Use flexbox to arrange children horizontally */
+      justify-content: space-between; /* Space between elements in the row */
+      align-items: center; /* Center vertically */
+      width: 100%;
+      padding: 10px;
+    }
+
+    #handText,
+    #datasetText{
+      text-align: left;
+    }
+
+      #snapShotText{
+        margin: 10px 10px 0 10px; /* top right bottom left */
+        text-align: center;
+        margin: 0 auto;
+      }
+
+      #webRtcText{
+        text-align: right;
+      }
+
+      @keyframes flashing {
+        0%, 50% {
+          opacity: 1; /* Fully visible */
+        }
+        25%, 75% {
+          opacity: 0; /* Completely hidden */
+        }
+      }
+
+
+  #video, #canvas {
+    position: absolute;
+    border-radius:50px;
+    top: 0;
+    left:0;
+    z-index: -1;
+    width: 100%; /* Make sure the video takes up the full width */
+
+  }
+  /* Chat container styles */
+  .chatContainer {
+      width: 100%;
+      margin: 0 auto;
+      border: 1px solid #e2e0e0;
+      box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Chat header styles */
+  .chatHeader {
+      background-color:  #5065A8;
+      font-size: var(--font-size-2);
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+      border-radius: 20px;
+      border-radius: 15px;
+      height: 10vh; 
+  }
+
+  /* Chat messages styles */
+  .chatMessages {
+      padding: 10px;
+      margin-left: 10px; 
+      background-color: rgb(233, 243, 246);
+      font-family: "Ubuntu-Italic", "Lucida Sans", helvetica, sans;
+      height: 75vh; /* Set the height to 75% of the viewport height */
+      overflow-y: scroll;
+  }
+
+  /* Chat input styles */
+
+
+  .emoji-styling {
+    font-size: var(--font-size-emoji);
+    color: red;
+  }
+
+  /* CSS talk bubble */
+.talk-bubble {
+	margin: 40px;
+  display: inline-block;
+  padding: 30px;
+  position: relative;
+	width: 80%;
+	height: auto;
+  border-radius: 15px;
+	background-color: lightyellow;
+}
+
+
+/* Right triangle, left side slightly down */
+.tri-right.border.left-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  left: -40px;
+	right: auto;
+  top: 30px;
+	bottom: auto;
+	border: 20px solid;
+	border-color: #666 #666 transparent transparent;
+}
+.tri-right.left-in:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  left: -20px;
+	right: auto;
+  top: 38px;
+	bottom: auto;
+	border: 12px solid;
+	border-color: lightyellow lightyellow transparent transparent;
+}
+
+
+
+/* Right triangle, right side slightly down*/
+.tri-right.border.right-in:before {
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  left: auto;
+	right: -40px;
+  top: 30px;
+	bottom: auto;
+	border: 20px solid;
+	border-color: #666 transparent transparent #666;
+}
+.tri-right.right-in:after{
+	content: ' ';
+	position: absolute;
+	width: 0;
+	height: 0;
+  left: auto;
+	right: -20px;
+  top: 38px;
+	bottom: auto;
+	border: 12px solid;
+	border-color: lightyellow transparent transparent lightyellow;
+}
+
+/* talk bubble contents */
+.talktext{
+  padding: 1em;
+	text-align: left;
+  line-height: 1.5em;
+}
+.talktext p{
+  /* remove webkit p margins */
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+}
+
+  

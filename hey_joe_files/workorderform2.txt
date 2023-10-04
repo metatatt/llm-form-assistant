@@ -1,0 +1,170 @@
+# What Is A Work Order? How It Benefits Your Organization
+
+A work order serves as a formal request for maintenance, repair, or operational tasks. It encompasses essential information about the maintenance task and provides a clear process for its completion. This document may also entail details about job authorization, assignees, expected outcomes, and any unique instructions or specifications. Think of work orders as the driving force behind your maintenance operations, facilitating seamless task execution and efficient workflow management.
+
+Work orders can be generated through a service request form (work request form) that is submitted by a staff member, customer, or tenant or automatically created through work order management software, such as a Computerized Maintenance Management System (CMMS).  Using CMMS software to manage work orders provides additional information to technicians, checklists, access to documents, manuals, images, and more.   In addition to the documentation of the tasks that were performed, labor expenses, materials issued from inventory, spot buys, and other expenses incurred for the job can also be captured within the work order.
+
+Table of Contents   top
+What Is The Purpose Of A Work Order & Why Are Work Orders Important?
+
+Service Requests (Work Requests) vs Work Orders
+
+What Is The Work Order Process?
+
+What Are The Different Types Of Work Orders?
+
+Custom Work Order Types Tailored to You
+
+What Is On A Work Order?
+
+How Do You Use Work Orders?
+
+What Are The Benefits Of A Work Order?
+
+What Can Our Work Order Software Do For You? 
+
+Conclusion
+
+Other Resources
+
+What Customers Are Saying
+
+Frequently Asked Questions (FAQs)?
+
+What Is The Purpose Of A Work Order? Why Are Work Orders Important? 
+Top
+
+The purpose of a work order is to initiate a task, clarify what is to be done, specify completion dates, and give special instructions as needed.  CMMS work order management software also helps organizations manage and maintain data on assets as well as on resources, expenses, and labor.  Organizations have the flexibility to manage and schedule current and upcoming work, analyze data to make improvements, manage expenses, control labor costs, and remain compliant.
+
+Service Requests (Work Requests) vs Work Orders
+Top
+
+A Service Request (also referred to as a Work Request) is a request for a maintenance task that is submitted by a non-maintenance staff member or customer.  When a service request is approved by the maintenance manager, they will assign a technician and schedule the task, and a work order is created.
+
+A Work Order is authorization for the maintenance team to perform the maintenance task.
+
+What Is The Work Order Process
+Top
+
+Using CMMS software makes the work order management process more efficient and streamlined.  Some of the main components of a work order include creation, completion, and recording.  
+
+The process:
+
+Task is Identified.
+Service request or maintenance request is created.
+Request is approved and turned into a work order.
+Work order is assigned and scheduled.
+Work order is sent to the appropriate technician.
+Work order documentation is updated and completed.
+Work order is closed out.
+Work order information can be analyzed to get a better insight into the processes followed or the steps taken to resolve any issues.
+What Are The Different Types Of Work Orders?
+Top
+
+Standard Work Order
+A standard work order is a non-critical maintenance task that does not pose an immediate risk to facilities, systems, equipment or components. Some examples are: removing old equipment, setting up new equipment, painting, or changing light bulbs.
+
+Preventive Maintenance
+A preventive maintenance work order is an essential tool for organizations looking to ensure the effectiveness of their equipment as well as to extend the life of their assets. This work order gives users the ability to schedule routine maintenance tasks on assets and equipment to minimize unexpected breakdowns. The preventive maintenance work order gives users the ability to control, plan, schedule, and identify the materials, parts, and labor to do the work within a specific timeframe. The advantages of preventive maintenance are to keep existing equipment in good working condition, prevent equipment downtime, increase the life expectancy of assets, decrease the number of major repairs, and control expenses.
+
+Prepare for Inspections
+When creating a work order, you can create a checklist and define a set of inspection points requiring a maintenance technician to audit or inspect an asset based on that predetermined set of parameters.  If the technician should identify a problem during the inspection, then a new work order can be created to correct that problem.
+
+Reactive\Emergency
+A reactive or emergency work order is generated when equipment breakdowns or a facility failure occurs and creates an unsafe environment, or a critical asset needs to be repaired immediately. An emergency work order is used to record and track and document any unscheduled work.  Reactive work orders give maintenance technicians the ability to provide detailed information on what caused the breakdown, what actions were taken to fix it, and what can be done to prevent it in the future.
+
+Corrective Maintenance
+A corrective maintenance work order is generated as a result of a regular inspection, preventive maintenance, emergency, etc., which identifies the failure in a reasonable time for corrective maintenance to be planned and scheduled. 
+
+Custom Work Order Types Tailored to You 
+Top
+
+With eWorkOrders, you’re not confined to predefined work order types. The flexibility lies in your hands, empowering you to craft custom work order types tailored to your specific needs. This adaptability ensures that your maintenance management system aligns seamlessly with your unique workflows, enabling you to address a wide range of tasks and scenarios efficiently. Whether it’s a specialized maintenance task, a unique project, or an unconventional request, eWorkOrders provides the freedom to create and categorize work order types that precisely reflect your operational requirements. This versatility allows you to effectively address, manage, and report on diverse tasks within your organization.
+
+What Is On A Work Order?
+Top
+
+Utilizing a template streamlines work order creation. Key elements to include typically consist of:
+
+Work Order Process
+
+Task Identification: Identify what needs to be done to resolve a maintenance issue.
+
+Work Order Created:  Complete a work order request form to authorize maintenance tasks.
+
+Work Order Approved: Maintenance management evaluates requests to ensure legitimacy.
+
+Work Order Assigned: Assess work orders based on urgency, backlog, and team availability.
+
+Work Order Sent to Technician: Facilitate seamless communication by forwarding work orders to the appropriate technician.
+
+Documentation Update: Capture accurate and timely accounts of the maintenance activities performed.
+
+Work Order Closure: Finalize the work order process by formally closing it once all services have been rendered and the job is successfully completed.
+
+How Do You Use Work Orders?
+Top
+
+Work orders are utilized in maintenance management to streamline and organize tasks effectively. Here’s how they are used:
+
+Task Definition: Work orders define the scope, nature, and specifics of a maintenance task.
+
+Authorization: They provide documentation of approval for the task to be carried out.
+
+Assignment: Work orders assign responsibilities to specific technicians or teams.
+
+Instructions: They offer step-by-step instructions on how to complete the task.
+
+Materials and Resources: Work orders list required materials, tools, and resources.
+
+Timeline: They establish deadlines and timelines for task completion.
+
+Communication: Work orders facilitate clear communication among stakeholders.
+
+Documentation: They serve as a record of completed tasks and maintenance history.
+
+Tracking: Work orders help monitor progress and ensure accountability.
+
+Analysis: They contribute to performance evaluation and optimization of maintenance processes.
+
+What Are The Benefits Of A Work Order?
+Top
+
+eWorkOrders CMMS Work Order Management brings organizations the tools to effectively:
+
+Organize and manage work requests so nothing gets overlooked.
+Schedule work to be done at a convenient time.
+Control and manage labor overtime and expenses.
+Increase availability and performance of equipment.
+Better management and control of costs.
+Boost employee productivity.       
+Preordering of supplies and materials. 
+Improve customer service.
+Minimize paperwork.
+Reduce the maintenance backlog.
+Improve safety.
+Be compliant with company, state and federal regulations.
+All of these benefits result in increased efficiency, productivity, safety, compliance and reduced costs.
+
+What Can Our Work Order Software Do For You? 
+Top
+
+Our CMMS Work Order Management software provides organizations with many benefits and features for users to easily:
+
+Create, manage, and prioritize work orders from anywhere.
+Maintain work history, share documents, and generate reports.
+Track technician’s work order time from start to stop of a task.
+Manage resource availability and assignments.
+CMMS is a centralized system accessible from a computer or mobile device.
+Streamline workflows.
+Improve communications.
+Track Inventory.
+Many more capabilities.
+Conclusion
+Top
+
+Effective management of maintenance tasks is important to any organization. Work orders are a critical part of the management of these maintenance tasks.  eWorkOrders is a powerful CMMS Work Order Management software that is designed to provide easy-to-use tools to streamline the processes to help you work more efficiently.  With our CMMS processes and procedures are defined, workflows are simplified, tasks are tracked, and information is well-documented.  
+
+Using CMMS software to manage your work orders, maintenance teams will be more productive and work more efficiently.  
+
+If you are interested in learning more about how eWorkOrders CMMS Work Order software can help you automate your maintenance tasks and would like to see a live demo, contact us today.

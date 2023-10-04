@@ -1,0 +1,101 @@
+MDUFA Cover Sheets
+Share
+Tweet
+Linkedin
+Email
+Print
+ 
+
+How to Fill Out the MDUFA User Fee Cover Sheet On-line
+Submitting Payment
+Mailing the Application
+If You Have Problems
+The Medical Device User Fee Cover Sheet is required for your Medical Device Application Submission. After completing the cover sheet, you will be assigned a unique user fee payment identification number that distinguishes and tracks your fee payment and submission.
+
+How to Fill Out the MDUFA User Fee Cover Sheet On-line:
+FDA offers your organization the ability to complete a Medical Device User Fee Cover Sheet online and submit it electronically.
+
+Read the instructions below and then go to Create MDUFA User Fee Cover Sheet to fill out the form.
+
+1. You will register on-line by providing the following information:
+
+One of the following: Employer Identification Number (EIN), Dun & Bradstreet Number (DUNS), or Organization Number
+Contact Name
+Company Name
+Address
+City
+State
+Zip Code
+Country
+Telephone
+Fax
+E-mail
+EIN numbers are required for U.S. firms, and DUNS numbers are required for foreign firms. You will need to have an EIN or DUNS number to create a User Fee account and proceed with registration. If you have previously registered with the FDA User Fee System for an ADUFA or PDUFA cover sheet, you will have been issued an Organization ID number (Org ID). The Org ID uniquely identifies your organization to the FDA. You will need one of these three numbers to proceed with registration.
+
+2. Fill out the Medical Device User Fee Cover Sheet. Please answer a series of questions regarding the type of application being submitted for FDA's review. You will have the opportunity to view the cover sheet in draft form before submitting it to FDA.
+
+3. When you are done, click the SUBMIT button to complete the cover sheet submission process. A form will appear with an electronically generated user fee payment identification number that is located in the upper right-hand corner, beginning with the letters MD. This number will assist FDA in tracking your payment and submission for the review process.
+
+Back to Top Arrow
+
+Submitting Payment
+Please send a printed copy of the completed Cover sheet along with a check, bank draft, or U.S. Postal money order made payable to the Food and Drug Administration for the fee amount due. Remember to include the Payment Identification Number, beginning with 'MD', and the FDA P.O. Box on the enclosed check.
+
+Mail payment and cover sheet to:
+U.S. Food and Drug Administration
+P.O. Box 979033
+St. Louis, MO 63197-9000
+Note: In no case should payment be submitted with the application.
+
+If checks are to be sent by a courier that requires a street address, the courier can deliver the checks to:
+US Bank
+ATTN: Government Lockbox 956733
+1005 Convention Plaza
+St. Louis, MO 63101
+Note: This address is for courier delivery only. Contact the US Bank at 314-418-4013 if you have any questions concerning courier delivery.
+
+If using a wire transfer, you may send your payment using the following information.
+You are responsible to pay any administrative costs associated with the processing of a wire transfer. Contact your bank or financial institution regarding additional fees. Please note that the review of your applications can not begin until full payment is received.
+
+US Department of Treasury
+TREAS NYC
+33 Liberty Street
+New York, NY 10045
+FDA Deposit Account Number: 75060099
+US Department of Treasury routing/transit number: 021030004
+SWIFT Number: FRNYUS33
+Please include the user fee payment identification number, beginning with "MD" and ensure that the fee that your bank will charge for the wire transfer is added to your fee payment.
+
+Back to Top Arrow
+
+Mailing the Application
+Mail application and include a copy of the completed Cover sheet as the first page of your application and each copy to:
+
+U.S. Food and Drug Administration
+Center for Devices and Radiological Health
+Document Mail Center – WO66-G609
+10903 New Hampshire Avenue
+Silver Spring, MD 20993-0002
+
+or
+
+Food and Drug Administration
+Center for Biologics Evaluation and Research
+1401 Rockville Pike, Suite 200 N
+HFM-99 (Document Control Room)
+Rockville, MD 20852-1448
+
+Back to Top Arrow
+
+If You Have Problems:
+If you already submitted an application and/or payment and forgot your user fee payment identification number or are unable to use the online system:
+
+Contact the FDA User Fees Financial Support Team at 301-796-7200 or via email at userfees@fda.gov.
+
+If you are unsure whether or not you need to file an application with FDA or are unsure what type of application to file
+
+Contact: CDRH-Division of Industry and Consumer Education (DICE)
+FDA Center for Devices and Radiological Health
+1-800-638-2041 or 301-796-7100
+
+Contact: Office of Communication, Training and Manufacturers Assistance FDA Center for Biologic Evaluation and Research 301-827-2000

@@ -1,0 +1,145 @@
+1. Name of business requesting MDUFA Small Business status. Provide the full legal name of the
+business:
+When completing the Form FDA 3602 please assure the business name is the same name as the
+business name on your U.S. Federal Tax Form.
+• If the business is a corporation, limited liability company, partnership, or other legal entity,
+provide the name used in its articles of incorporation, articles of organization, partnership
+registration, or other similar instrument filed with the State or other government under whose
+laws the firm was created.
+• If the business is a sole proprietorship owned entirely by one individual, provide the name used
+when filing Federal, State, or other taxes.
+2. Federal Employer Identification Number. Your business’s Federal Employer Identification
+Number (EIN) was assigned to you by the U.S. Internal Revenue Service and uniquely identifies your
+business.
+When completing the Form FDA 3602, please ensure the Federal Employer Identification Number
+matches the Federal Employer Identification Number (EIN) on your tax form.
+2a. The Organization ID Number (Org ID). Org ID is a system-generated number assigned to a new
+organization during the User Fee account creation process that uniquely identifies your business in the
+FDA User Fee Website. Available at https://userfees.fda.gov/OA_HTML/mdufmaCAcdLogin.jsp?legalsel=2&ref
+See Section VII (Frequently-Asked Questions) of this guidance for instructions on obtaining your Org ID; the
+Org ID is used by FDA to interact with an organization to ensure proper payment of its medical device
+applications that require the payment of a user fee. If this number is incorrect there could be a delay in
+processing your Small Business Certification reduced user fee for an application.
+3. Address where business is physically located. This is the address where the business is
+physically located (i.e., the address you would give to a person who needed to travel directly to the
+business’s primary establishment).
+4. Name of person making this Certification. This is the person who is responsible for the accuracy
+and completeness of the information provided in the Certification and who must sign the Certification
+(see item 10). This is also the person FDA will contact for all communications regarding your MDUFA
+Small Business Qualification and Certification, for a Business Headquartered in the United States.
+5. Your telephone number. This is the telephone number where FDA may reach you if we have a
+question concerning your MDUFA Small Business Qualification and Certification, for a Business
+Headquartered in the United States.
+6. Your mailing address. This is the address FDA will use to mail any correspondence regarding the
+Small Business Certification Request. If your mailing address is the same as item 3, you may check
+the box instead of providing the information again in Box 6.
+7. Your email address. This is the email address that the FDA will use to communicate with you
+about your MDUFA Small Business Certification Request and send your decision letter. Our primary
+means of communicating with you is via email; therefore please make sure your email address is
+correct and functioning. If you do not have an email address or provide one that is functioning, we will
+communicate by standard mail.
+8. What is your relation to the business claiming MDUFA Small Business status? Briefly explain
+your position within the business (e.g., Chief Financial Officer; Vice President; Chief Counsel; or other
+relationship that gives you authority to provide a MDUFA Small Business Certification Request, for a
+Business Headquartered in the United States on behalf of the business).
+FORM FDA 3602 (6/22) Instructions Page ii
+9. Have you listed all of the business’s affiliates in Section II of this form? If you have any
+affiliates, check the first box (“Yes”) and list them in Section II of the form. If you do not have any
+affiliates, check the second box (“This business has no affiliates.”).
+• What is an affiliate? This term is defined by § 737(12) of the FD&C Act. Affiliate means a business
+entity that has a relationship with a second business entity where, directly or indirectly:
+(a) one business entity controls, or has the power to control, the other business entity; or
+(b) a third-party controls, or has the power to control, both of the business entities.
+10. The applicant's signature on the Form FDA 3602 in box 10 may be a wet (i.e., ink) signature
+or a valid digital signature. Complete, sign, and date the following Certification. In this
+Certification, you should provide the following information:
+• The name of the business that is claiming MDUFA Small Business status. This should be
+identical to your response to item 1.
+• Check one response to indicate whether the business has any affiliates. Please make sure this
+agrees with the response in box 9.
+– Check the first box if the business has no affiliates and you have completed box 9 as “This
+business has no affiliates”.
+– Check the second box if the business has only the affiliates you listed in Section II of the form
+and you have completed box 9 as “Yes”.
+• Check one response to indicate how the business determined it met the requirement that it have
+“gross receipts or sales” of no more than $100 million:
+– Check the first box if the entity reported “gross receipts
+or sales” of no more than $100 million on its most recent
+Federal (U.S.) income tax return. Attach a true and
+accurate copy (a complete and unaltered copy) of the
+business’s most recent Federal (U.S.) income tax
+return. FDA cannot accept a foreign tax return instead of
+a Federal (U.S.) income tax return.
+• Where do I find my gross receipts or sales? You reported
+your gross receipts or sales on your most recent Federal
+(U.S.) income tax return. Please note that the following list is
+not an all-inclusive list for IRS Forms that may contain
+information on your gross receipts or sales. You should
+provide all IRS Forms that contain information on your gross
+receipts or sales.
+IRS Form See Line Number
+Schedule C (Form
+1040) 1
+Schedule C-EZ
+(Form 1040) 1
+Form 1065 1a
+Form 1065-B 1a
+Form 1120 1a
+Form 1120-F Section II, 1a
+Form 1120S 1a
+Form 990 12
+Any other form contact FDA
+• Check the second box if the business and all its affiliates together reported “gross receipts or sales” of
+no more than $100 million on their most recent Federal (U.S.) income tax returns. You should attach a
+true and accurate copy (a complete and unaltered copy) of the entity’s most recent Federal income
+tax return and a true and accurate copy of each affiliate’s most recent Federal income tax return.
+• What is the most recent tax year?
+– You should submit your most recent tax return. If you submit your Small Business Small
+Business Certification Request prior to the current year's due date for your taxes, you may
+submit your previous year's tax return
+– If you obtained an extension to file your taxes, then you may use your most recent return filed
+prior to the extension. In this scenario, you should also include your IRS Form 7004: Application
+for Automatic Extension of Time To File Certain Business Income Tax, Information, and Other
+Returns in your application.
+• The person identified in item 4 (“Name of person making this Certification”) must sign the Certification.
+• Date the Certification (this is the date you signed the Certification).
+FORM FDA 3602 (6/22) Instructions Page iii
+Section II – Information about You and Your Affiliates
+Section II of the form provides space for listing up to 15 affiliates; if you have more than 15 affiliates,
+you may provide the additional information on one or more additional copies of Section II.
+Lines 1 through 15:
+List each affiliate on a separate line. For each, you should provide the following information:
+a. Name of Affiliate. Provide the full legal name of the affiliate:
+• If the affiliate is a corporation, limited liability company, partnership, or other legal entity, you
+should provide the name used in its articles of incorporation, articles of organization,
+partnership registration, or other similar instrument filed with the State or other government
+under whose laws the firm was created.
+• If the affiliate is a sole proprietorship (that is, it is owned entirely by an individual), you
+should provide the name used when filing Federal, State, or other taxes.
+b. Taxpayer ID Number. This number uniquely identifies each business:
+• If the affiliate is headquartered in the United States, you should provide the Federal Employer
+Identification Number (EIN) assigned to the affiliate by the U.S. Internal Revenue Service.
+• If the affiliate is headquartered outside the United States, you should provide the Taxpayer
+Identification Number provided by the National Taxing Authority where the affiliate has its
+headquarters.
+c. Gross Receipts or Sales. For each affiliate headquartered in the United States, you should
+copy this number from the most recent Federal (U.S.) income tax return for the affiliate. See
+the instruction for item 9 to learn where you will find this information on a Federal (U.S.)
+income tax return. For each affiliate headquartered outside the United States, you should copy
+the information from item 3.b. of the National Taxing Authority Certification for the affiliate.
+16. Total Gross Receipts or Sales of All Affiliates. This is the sum of the Gross Receipts or
+Sales shown in column c. of lines 1 through 15. If you have no affiliates, please enter “0”.
+17. Gross Receipts or Sales of the Business Making this Certification. This is the gross
+receipts or sales of the business identified in Section I, item 1.
+18. Total Gross Receipts or Sales Used to Determine Qualification as a Small Business. This
+is the sum of lines 16 and 17. To qualify as a MDUFA small business for fee discounts, this sum must
+be no more than $100 million. See Sections 738(d)(2)(A) and 738(e)(2)(A) of the FD&C Act.
+Once you have completed your Form FDA 3602, print and sign the form. Mail the completed form and your
+supporting documentation (copies of the Federal (U.S.) income tax returns) to Medical Device User Fee Small
+Business Certification Request mailing address which is available at the following website,
+https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/HowtoMarketYourDevice/
+PremarketSubmissions/ucm577696.htm.
+Be sure to include complete, signed copies of all Federal (U.S.) income tax returns and certifications from
+foreign national taxing authorities that relate to your Certification.
+If you need assistance, please contact the Division of Industry and Consumer Education at 800-638-2041 or
+301-796-7100 or e-mail at D

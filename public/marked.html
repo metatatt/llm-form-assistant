@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>d</title>
+    <link rel="stylesheet" href="./lib/camera.css">
+</head>
+
+<body>
+    hi, what's the problem
+    <div id="outer">
+        <div class="mdcontent"></div>
+    </div>
+
+    <!-- Scripts placed at the bottom to ensure they're loaded after the DOM content -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://unpkg.com/graphre/dist/graphre.js"></script>
+    <script src="https://unpkg.com/nomnoml/dist/nomnoml.js"></script>
+    <script>
+        const md =
+            `
+># js libraries
+## js libraries
+
+|js| usage |
+|--|--|
+|jsQR  | QR Code
+|jsQR2  | QR2 Code
+
+`
+        document.querySelector('.mdcontent').innerHTML =
+            marked.parse(md);
+md2 =`
+[<table>#22637]
+[<start>start] -> [<state>Steps to Test] -> [<state>Steps to Fix] 
+[<start>start] -> [<state>Steps to Fix] ->[<choice>If Light On] -> [<state>something]
+[<choice>If Light On]->[<end>]
+[<table>#22638]
+`
+        const container = document.getElementById('outer') 
+        var diagramCanvas = document.createElement('canvas');
+        diagramCanvas.id = 'uml'
+        var source = md2
+        nomnoml.draw(diagramCanvas, source)
+        container.appendChild(diagramCanvas)
+    </script>
+</body>
+
+</html>
+
